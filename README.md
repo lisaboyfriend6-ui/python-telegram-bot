@@ -4,6 +4,8 @@
 
 A starter Telegram bot project built with [`python-telegram-bot`](https://python-telegram-bot.org/), environment-based configuration, Docker support, and Railway deployment setup.
 
+![Telegram Bot Demo](img/bot.png)
+
 ## Features
 
 - Persistent chat menu buttons after `/start`
